@@ -4,7 +4,7 @@
 
 33 theme variants with runtime-customizable accent colors, Island UI support, and a built-in file icon pack.
 
-![Gruvppuccin Mocha](screenshots/hero-mocha.png)
+![Gruvppuccin Mocha](screenshots/embed/02-gruvppuccin-mocha.png)
 
 ## Install
 
@@ -14,6 +14,20 @@
 2. Search for **Gruvppuccin Theme**
 3. Click **Install** and restart the IDE
 4. Go to **Settings → Appearance & Behavior → Appearance** and select a Gruvppuccin theme
+
+## Editions
+
+Same software, three ways to get it.
+
+| Edition | Themes | Price |
+|---------|--------|-------|
+| **Lite** | 6 (Macchiato + Gruvbark Haze, all three UI styles) | Free |
+| **Gruvppuccin Theme** | 33 | Subscription |
+| **Lifetime Edition** | 39 — adds the exclusive **Nocturne** family | One-time purchase |
+
+Lite ships the icon pack and keyword styling but no Settings panel. The subscription and Lifetime editions are the same software with the same features; Lifetime adds the six Nocturne variants and is paid once.
+
+![Nocturne — Lifetime exclusive](screenshots/embed/17-nocturne.png)
 
 ## Theme Families
 
@@ -45,11 +59,11 @@
 
 Each theme ships in three UI styles: **Classic**, **Island** (rounded floating panels for JetBrains Island UI 2025.2+), and **Soft Island** (gentler sidebar contrast).
 
-![Syntax highlighting across variants](screenshots/syntax-grid.png)
+![Syntax highlighting across variants](screenshots/embed/26-lang-kotlin.png)
 
 ## Island UI
 
-![Island UI variant](screenshots/island-mocha.png)
+![Island UI variant](screenshots/embed/12-macchiato-island.png)
 
 ## Customization
 
@@ -61,7 +75,7 @@ Configure under **Settings → Appearance → Gruvppuccin**. Changes apply insta
 - **Corner radius** — adjustable rounding for UI components
 - **File icon pack** — 28 file types with dark/light variants
 
-![Accent color customization](screenshots/accent-colors.png)
+![Accent color customization](screenshots/embed/23-settings-macchiato.png)
 
 ## Color Palette
 
@@ -157,7 +171,7 @@ let g:widget_mode_select_foreground_light = "#f2e5bc"
 
 ## Compatibility
 
-IntelliJ IDEA 2022.3 – 2026.1 (Community or Ultimate). Syntax highlighting covers 30+ languages.
+IntelliJ IDEA 2023.3 – 2026.1 (Community or Ultimate). Syntax highlighting covers 30+ languages.
 
 ## Issues
 
