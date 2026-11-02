@@ -23,11 +23,11 @@ Same software, three ways to get it.
 |---------|--------|-------|
 | **Lite** | 6 (Macchiato + Gruvbark Haze, all three UI styles) | Free |
 | **Gruvppuccin Theme** | 33 | Subscription |
-| **Lifetime Edition** | 39 — adds the exclusive **Nocturne** family | One-time purchase |
+| **Lifetime Edition** | 63 — adds the exclusive **Nocturne** family | One-time purchase |
 
-Lite ships the icon pack and keyword styling but no Settings panel. The subscription and Lifetime editions are the same software with the same features; Lifetime adds the six Nocturne variants and is paid once.
+Lite ships the icon pack and keyword styling but no Settings panel. The subscription and Lifetime editions are the same software with the same features; Lifetime adds the 30 Nocturne variants (ten palettes, each in Classic, Island and Soft Island) and is paid once.
 
-![Nocturne — Lifetime exclusive](screenshots/embed/17-nocturne.png)
+![Gruvppuccin (Lifetime) Gopher Macchiato — Nocturne, Lifetime exclusive](screenshots/embed/35-nocturne-gopher-macchiato.png)
 
 ## Theme Families
 
